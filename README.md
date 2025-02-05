@@ -100,7 +100,7 @@ EmbarcaTech_U4_Clock-Temporizadores
 ## ⚙️ Funcionalidades
 
 ### Atividade 1:
-- Alternância entre os estados "PARE", "ATENÇÃO" e "SIGA".
+- Alternância entre os estados "PARE" - Vermelho, "ATENÇÃO" - Amarelo e "SIGA" - Verde.
 - Mensagens no monitor serial indicando o estado atual.
 - Ciclo de troca de cor a cada 3 segundos.
 
