@@ -16,7 +16,6 @@ Tabela de conteúdos
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Imagens do Projeto](#-imagens-do-projeto)
      * [Imagem](#-projeto-na-extensão-wokwi-simulator-no-visual-studio)
-     * [Vídeo](#-video-do-projeto)
    * [Tecnologias](#-tecnologias)
      * [Websites](#-websites)
      * [Utilitários](#user-content-server--nodejs----typescript)
@@ -28,7 +27,9 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-### Atividade 1: Este projeto implementa um sistema de controle de semáforo utilizando a placa BitDogLab (Raspberry Pi Pico W) com o uso de temporizadores. O sistema simula a mudança de cores do semáforo (vermelho, amarelo e verde) a cada 3 segundos, indicando o estado atual através do monitor serial.
+### Atividade 1: 
+
+Este projeto implementa um sistema de controle de semáforo utilizando a placa BitDogLab (Raspberry Pi Pico W) com o uso de temporizadores. O sistema simula a mudança de cores do semáforo (vermelho, amarelo e verde) a cada 3 segundos, indicando o estado atual através do monitor serial.
 
 Componentes Utilizados:
 
@@ -40,7 +41,9 @@ Componentes Utilizados:
 
 O código utiliza um temporizador repetitivo para alternar as cores e exibir mensagens no console.
 
-### Atividade 2: Este projeto implementa um sistema de controle de LEDs utilizando a placa BitDogLab (Raspberry Pi Pico W) com o uso de interrupções e temporizadores. Através do pressionamento de um botão, três LEDs (azul, vermelho e verde) são acesos simultaneamente e desligados em sequência, com intervalos de 3 segundos entre cada um. O status dos LEDs é exibido no monitor serial durante a execução do programa.
+### Atividade 2: 
+
+Este projeto implementa um sistema de controle de LEDs utilizando a placa BitDogLab (Raspberry Pi Pico W) com o uso de interrupções e temporizadores. Através do pressionamento de um botão, três LEDs (azul, vermelho e verde) são acesos simultaneamente e desligados em sequência, com intervalos de 3 segundos entre cada um. O status dos LEDs é exibido no monitor serial durante a execução do programa.
 
 Componentes Utilizados:
 
@@ -58,6 +61,7 @@ Componentes Utilizados:
 EmbarcaTech_U4_Clock-Temporizadores
 
 -Atvd1_Temporizador_Periodico
+
     - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
        - diagrama.png
        - Video_Demonstration
@@ -73,6 +77,7 @@ EmbarcaTech_U4_Clock-Temporizadores
    - wokwi.toml
 
 -Atvd2_OneShot
+
     - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
        - diagrama.png
        - Video_Demonstration
@@ -127,7 +132,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
   - Abra o terminal de comando Git Bash 
   - Clone o repositório do GitHub com o comando:
 ```
-$ git clone https://github.com/Dyeorn/EmbarcaTech_U4_Interruption
+$ git clone https://github.com/Dyeorn/EmbarcaTech_U4_Clock-Temporizadores
 ```
 - Opção 2:
   - No repósitorio [EmbarcaTech_U4_Clock-Temporizadores](https://github.com/Dyeorn/EmbarcaTech_U4_Clock-Temporizadores) aperte o Botão <i><>code</i>
@@ -177,9 +182,10 @@ elf = 'build/main.elf'
 ### 💿 Diagrama Visual do Projeto
 
 Atividade 1:
-<p align="center"><img width="700" height="400" src="/diagrama.png"></p>
+<p align="center"><img width="700" height="400" src="Atvd1_Temporizador_Periodico\assets/diagrama.png"></p>
 
 Atividade 2:
+<p align="center"><img width="700" height="400" src="Atvd2_OneShot\assets/diagrama.png"></p>
 
 
 ---
