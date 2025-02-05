@@ -2,9 +2,9 @@
 #include "pico/stdlib.h"
 #include "hardware/timer.h"
 
-#define LED_PIN_GREEN 11
+#define LED_PIN_RED 11
 #define LED_PIN_BLUE 12
-#define LED_PIN_RED 13
+#define LED_PIN_GREEN 13
 
 // Variável para controlar o estado do LED.
 int led_state = 0;
