@@ -60,7 +60,7 @@ Componentes Utilizados:
 <i>
 EmbarcaTech_U4_Clock-Temporizadores
 
--Atvd1_Temporizador_Periodico
+- Atvd1_Temporizador_Periodico
 
    - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
        - diagrama.png
@@ -76,7 +76,7 @@ EmbarcaTech_U4_Clock-Temporizadores
    
    - wokwi.toml
 
--Atvd2_OneShot
+- Atvd2_OneShot
 
    - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
        - diagrama.png
