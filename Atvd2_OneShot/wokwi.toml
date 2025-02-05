@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Atvd2_OneShot.hex'
+elf = 'build/Atvd2_OneShot.elf'
