@@ -62,7 +62,7 @@ EmbarcaTech_U4_Clock-Temporizadores
 
 -Atvd1_Temporizador_Periodico
 
-    - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
+   - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
        - diagrama.png
        - Video_Demonstration
 
@@ -78,7 +78,7 @@ EmbarcaTech_U4_Clock-Temporizadores
 
 -Atvd2_OneShot
 
-    - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
+   - assets/&emsp;&emsp;&emsp;&emsp;# Midias do Projeto
        - diagrama.png
        - Video_Demonstration
 
@@ -182,10 +182,10 @@ elf = 'build/main.elf'
 ### 💿 Diagrama Visual do Projeto
 
 Atividade 1:
-<p align="center"><img width="700" height="400" src="Atvd1_Temporizador_Periodico\assets/diagrama.png"></p>
+<p align="center"><img width="700" height="400" src="Atvd1_Temporizador_Periodico/assets/Diagrama.png"></p>
 
 Atividade 2:
-<p align="center"><img width="700" height="400" src="Atvd2_OneShot\assets/diagrama.png"></p>
+<p align="center"><img width="700" height="400" src="Atvd2_OneShot/assets/Diagrama.png"></p>
 
 
 ---
